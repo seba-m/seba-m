@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sebastian Morgado
+- 👀 I’m interested in programming, learn something new, and games :D
+- 🌱 I’m currently learning HTML, JavaScript and CSS.
+- 📫 You can reach me with my LinkedIn [seba-morgado](https://www.linkedin.com/in/seba-morgado/)
